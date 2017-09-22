@@ -3,6 +3,14 @@ html, body {
 	padding: 0;
 }
 
+h1 {
+	color: #a4662d;
+}
+
+a, p {
+	color: #cc9845;
+}
+
 .outer {
 	display: table;
 	position: absolute;
